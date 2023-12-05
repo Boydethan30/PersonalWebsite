@@ -42,3 +42,18 @@
     margin-left: 100px;
     margin-top: 50px;
 }
+
+
+.hero-cta a{
+text-decoration: none;
+color: black;
+}
+
+.hero-cta{
+    background-color: rgb(156, 227, 245);
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 80px;
+}
+
