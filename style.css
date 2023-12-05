@@ -50,10 +50,16 @@ color: black;
 }
 
 .hero-cta{
-    background-color: rgb(156, 227, 245);
+    background-color: rgb(255, 182, 172);
     width: 200px;
     height: 40px;
     border-radius: 10px;
-    margin-left: 80px;
+    margin-top: 20px;
+}
+
+
+#tag-image{
+    height: 50px;
+    width: 50px;
 }
 
