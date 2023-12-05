@@ -1,6 +1,6 @@
 .hero-section{
     display: flex;
-    height: 800px;
+    height: 900px;
 }
 
 .hero-links{
@@ -9,7 +9,7 @@
     width: 40px;
     height: 200px;
     justify-content: space-between;
-    margin-top: 300px;
+    margin-top: 360px;
 }
 
 .link-image{
@@ -40,7 +40,7 @@
     width: 800px;
     height: 800px;
     margin-left: 100px;
-    margin-top: 50px;
+    margin-top: 60px;
 }
 
 
