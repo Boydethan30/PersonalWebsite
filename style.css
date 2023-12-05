@@ -39,7 +39,7 @@
 
 #astronaut{
     width: 800px;
-    height: 800px;
+    height: 800px; 
     margin-left: 100px;
     margin-top: 60px;
 }
@@ -47,11 +47,11 @@
 
 .hero-cta a{
 text-decoration: none;
-color: black;
+color: white;
 }
 
 .hero-cta{
-    background-color: rgb(255, 182, 172);
+    background-color: black;
     width: 200px;
     height: 40px;
     border-radius: 10px;
