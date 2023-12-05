@@ -1,5 +1,6 @@
 .hero-section{
     display: flex;
+    height: 800px;
 }
 
 .hero-links{
@@ -13,4 +14,31 @@
 
 .link-image{
     width: 40px;
+}
+
+
+.hero-text{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 700px;
+    margin-left: 300px;
+    margin-top: 60px;
+}
+
+#hero-main-text{
+    font-family: Montserrat;
+    font-size: 70px;
+}
+
+#hero-paragraph{
+    font-size: larger;
+}
+
+
+#astronaut{
+    width: 800px;
+    height: 800px;
+    margin-left: 100px;
+    margin-top: 50px;
 }
