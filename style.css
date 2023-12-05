@@ -27,11 +27,12 @@
 }
 
 #hero-main-text{
-    font-family: Montserrat;
+    font-family: 'Orbitron', sans-serif;;
     font-size: 70px;
 }
 
 #hero-paragraph{
+    font-family: 'Orbitron', sans-serif;;
     font-size: larger;
 }
 
