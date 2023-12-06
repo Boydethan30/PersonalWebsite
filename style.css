@@ -1,6 +1,6 @@
 .hero-section{
     display: flex;
-    height: 900px;
+    height: 1000px;
 }
 
 .hero-links{
@@ -67,7 +67,7 @@ color: white;
 
 .technologies-section{
     background-color: #a6edff;
-    height: 800px;
+    height: 1000px;
 }
 
 
