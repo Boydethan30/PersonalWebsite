@@ -60,27 +60,7 @@ color: white;
 
 
 #tag-image{
+    margin-top: 50px;
     height: 50px;
     width: 50px;
-}
-
-
-.technologies-section{
-    background-color: #a6edff;
-    height: 1000px;
-}
-
-
-#rocket{
-    width: 500px;
-    height: 500px;
-    margin-top: 100px;
-}
-
-#cloud{
-    width: 200px;
-}
-
-.tech-image{
-    width: 40px;
 }
